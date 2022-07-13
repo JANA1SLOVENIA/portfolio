@@ -37,6 +37,9 @@ body {
   min-height: 100vh;
 }
 
+html, body {
+     min-height: 100%;
+}
 
 /* latin-ext */
 @font-face {
