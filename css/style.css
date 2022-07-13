@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'panton-bold';
+   font-display: swap;
+   src: url('panton-bold/font.otf');
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF
+  background-color: #121212
+}
+
+.panton {
+  font-family: 'panton-bold', sans-serif;
+  color: #FFFFFF
+}
